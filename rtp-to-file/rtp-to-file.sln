@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtp-to-file", "rtp-to-file\rtp-to-file.vcxproj", "{B30C7253-1BE7-4C9D-BE70-48A33653196C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30C7253-1BE7-4C9D-BE70-48A33653196C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B30C7253-1BE7-4C9D-BE70-48A33653196C}.Debug|Win32.Build.0 = Debug|Win32
+		{B30C7253-1BE7-4C9D-BE70-48A33653196C}.Debug|x64.ActiveCfg = Debug|Win32
+		{B30C7253-1BE7-4C9D-BE70-48A33653196C}.Release|Win32.ActiveCfg = Release|Win32
+		{B30C7253-1BE7-4C9D-BE70-48A33653196C}.Release|Win32.Build.0 = Release|Win32
+		{B30C7253-1BE7-4C9D-BE70-48A33653196C}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
